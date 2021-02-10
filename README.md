@@ -5,11 +5,6 @@ For further reference, please consider the following sections:
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.6.RELEASE/maven-plugin/)
 
-# Project References
-The original project source code can be found here. This is a simple port to kotlin for educational purposes.
-
-https://github.com/asc-lab/java-cqrs-intro
-
 ## No CQRS
 
 <p align="center">
@@ -39,5 +34,10 @@ https://github.com/asc-lab/java-cqrs-intro
 <p align="center">
     <img alt="Event Sourcing" src="https://raw.githubusercontent.com/asc-lab/java-cqrs-intro/master/readme-images/5_event_sourcing.png" />
 </p>
+
+# Project References
+The original project source code can be found here. This is a simple port to kotlin for educational purposes.
+
+https://github.com/asc-lab/java-cqrs-intro
 
  
